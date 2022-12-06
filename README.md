@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Abdel-Rahman Ali
-- 🤔 I’m interested in Embedded Systems, the Internet of Things, and Web development.
+- 💜 I’m interested in Embedded Systems, the Internet of Things, and Web development.
 - 🖥️ I’m currently learning IoT Programming.
 - 📫 You can contact me at my [LinkedIn profile](https://www.linkedin.com/in/abdelrahman711/)
 
