@@ -4,7 +4,7 @@
 - 📫 You can contact me at my [LinkedIn profile](https://www.linkedin.com/in/abdelrahman711/)
 
 ### Skills
-- C programming
+- C Programming
 - Python
 - SQLite
 - HTML
