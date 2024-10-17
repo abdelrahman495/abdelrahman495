@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">I'm a fresh graduate in Electronics & Communication Engineering with a growing passion for DevOps. I’m skilled in Linux, Git, Ansible, Docker, Kubernetes, Jenkins, AWS, Terraform, and Prometheus. My background in embedded systems has sharpened my problem-solving skills, which I now apply to mastering automation, cloud infrastructure, and CI/CD. I’m eager to take on new challenges and continue learning in the world of DevOps!</h6>
+<h3 align="left">I'm a fresh graduate in Electronics & Communication Engineering with a growing passion for DevOps. I’m skilled in Linux, Git, Ansible, Docker, Kubernetes, Jenkins, AWS, Terraform, and Prometheus. My background in embedded systems has sharpened my problem-solving skills, which I now apply to mastering automation, cloud infrastructure, and CI/CD. I’m eager to take on new challenges and continue learning in the world of DevOps!</h3>
 
 ###
 
