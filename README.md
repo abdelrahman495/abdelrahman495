@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋! I'm Abdelrahman Ali</h1>
+![](https://github.com/abdelrahman495/abdelrahman495/blob/main/header.png)
 
 ###
 
-![](https://github.com/abdelrahman495/abdelrahman495/blob/main/header.png)
+<h1 align="center">Hi 👋! I'm Abdelrahman Ali</h1>
+
+###
 
 <h3 align="center">A passionate DevOps Engineer from Egypt</h3>
 
@@ -10,11 +12,11 @@
 
 <br clear="both">
 
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="330" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -77,12 +79,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abdelrahman495/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -105,8 +101,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abdelrahman495/count.svg?"  />
+</div>
+
+###
+
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-<br>
+
+###
 
 <!---
 abdelrahman495/abdelrahman495 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
