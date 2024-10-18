@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I’m a passionate Electronics & Communication Engineering graduate with a keen interest in DevOps. I thrive on optimizing processes and automating workflows, transforming complex challenges into streamlined solutions. With hands-on experience in Docker, Jenkins, and cloud platforms, I’m eager to contribute to impactful projects and enhance system reliability in dynamic environments.</h3>
+<h3 align="left">I’m a passionate Electronics and Communication Engineering graduate with a keen interest in DevOps. I thrive on optimizing processes and automating workflows, transforming complex challenges into streamlined solutions. With hands-on experience in Docker, Jenkins, and cloud platforms, I’m eager to contribute to impactful projects and enhance system reliability in dynamic environments.</h3>
 
 ###
 
