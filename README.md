@@ -101,7 +101,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman495&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman495&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=abdelrahman495&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
